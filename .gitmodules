@@ -1,0 +1,6 @@
+[submodule "servicea"]
+	path = servicea
+	url = ./servicea
+[submodule "serviceb"]
+	path = serviceb
+	url = ./serviceb
